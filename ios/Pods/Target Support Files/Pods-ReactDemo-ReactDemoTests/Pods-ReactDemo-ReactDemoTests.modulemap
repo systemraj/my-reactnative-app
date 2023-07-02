@@ -1,0 +1,6 @@
+module Pods_ReactDemo_ReactDemoTests {
+  umbrella header "Pods-ReactDemo-ReactDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
